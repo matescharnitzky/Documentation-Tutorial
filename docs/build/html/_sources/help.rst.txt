@@ -1,7 +1,7 @@
 Need Help
 =========
 
-If you're having trouble, please email mate.scharnitzky@gmail.com
+If you're having trouble, please email username@domain.com
 
 Need further help
 ^^^^^^^^^^^^^^^^^
